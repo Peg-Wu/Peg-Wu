@@ -1,2 +1,1 @@
-# Peg-Wu
-
+![WPP's github activity graph](https://raw.githubusercontent.com/Peg-Wu/Peg-Wu/output/github-contribution-grid-snake.svg)
